@@ -1,0 +1,37 @@
+body{
+  text-align: center;
+  background-image: url(https://i.ibb.co/12ntYVR/1.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0;
+}
+
+table{
+  width: 1000px;
+  height: 700px;
+  text-align: center;
+  margin: 0 auto;
+}
+  td{
+    border: black 2px solid;
+    font-size: 50px;
+    border-radius: 10px
+  }
+  td:hover{
+    border: red 2px solid;
+    background-color: blue;
+    font-size: 70px;
+   }
+    div{
+      border: black 2px solid;
+      width: 450px;
+      text-align: center;
+      border-radius: 20px;
+      display: inline-block;
+    }
+     div:hover{
+       background-color: blue
+     }
+    img{
+      width: 400px
+    }
